@@ -1,0 +1,435 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\SMSProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\seeds\\defaultusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\seeds\\defaultusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\seeds\\defaultroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\seeds\\defaultroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\views\\users\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/DEV_ITTEST_MSSQLSERVER01/SMS_TestProject/sa/SqlTable/dbo.AspNetUsers.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\data\\consts\\approles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\data\\consts\\approles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\areas\\identity\\pages\\account\\logout.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\views\\shared\\_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\models\\basemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\views\\shared\\_aside.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\views\\shared\\_aside.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\wwwroot\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\views\\shared\\footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|e:\\smsproject\\smsproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00EA465D-D1DF-4243-A23E-85A293091556}|SMSProject\\SMSProject.csproj|solutionrelative:smsproject\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "SMSProject\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "SMSProject\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:17:07.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SMSProject\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SMSProject\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABEAAAAAAAAAAAAkwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T14:44:56.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "dbo.AspNetUsers [Data]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/DEV_ITTEST_MSSQLSERVER01/SMS_TestProject/sa/SqlTable/dbo.AspNetUsers.sql",
+              "ToolTip": "dbo.AspNetUsers [Data]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-01T13:10:43.133Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Views\\Users\\Index.cshtml",
+              "RelativeDocumentMoniker": "SMSProject\\Views\\Users\\Index.cshtml",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Views\\Users\\Index.cshtml",
+              "RelativeToolTip": "SMSProject\\Views\\Users\\Index.cshtml",
+              "ViewState": "AQIAADUAAAAAAAAAAAAAAEoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T12:29:55.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "SMSProject\\Mapping\\MappingProfile.cs",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "SMSProject\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:21:03.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "SMSProject\\Controllers\\UsersController.cs",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "SMSProject\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T12:03:12.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "site.js",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "SMSProject\\wwwroot\\js\\site.js",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "SMSProject\\wwwroot\\js\\site.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-07-01T11:56:56.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Logout.cshtml.cs",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeDocumentMoniker": "SMSProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "RelativeToolTip": "SMSProject\\Areas\\Identity\\Pages\\Account\\Logout.cshtml.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:25:00.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "SMSProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "SMSProject\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T09:23:56.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SMSProject\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SMSProject\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:06:28.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DefaultUsers.cs",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Seeds\\DefaultUsers.cs",
+              "RelativeDocumentMoniker": "SMSProject\\Seeds\\DefaultUsers.cs",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Seeds\\DefaultUsers.cs",
+              "RelativeToolTip": "SMSProject\\Seeds\\DefaultUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:53:22.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppRoles.cs",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Data\\Consts\\AppRoles.cs",
+              "RelativeDocumentMoniker": "SMSProject\\Data\\Consts\\AppRoles.cs",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Data\\Consts\\AppRoles.cs",
+              "RelativeToolTip": "SMSProject\\Data\\Consts\\AppRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:50:07.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DefaultRoles.cs",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Seeds\\DefaultRoles.cs",
+              "RelativeDocumentMoniker": "SMSProject\\Seeds\\DefaultRoles.cs",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Seeds\\DefaultRoles.cs",
+              "RelativeToolTip": "SMSProject\\Seeds\\DefaultRoles.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:41:33.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BaseModel.cs",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Models\\BaseModel.cs",
+              "RelativeDocumentMoniker": "SMSProject\\Models\\BaseModel.cs",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Models\\BaseModel.cs",
+              "RelativeToolTip": "SMSProject\\Models\\BaseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:10:59.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "SMSProject\\Models\\ApplicationUser.cs",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "SMSProject\\Models\\ApplicationUser.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T11:02:33.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SMSProject\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SMSProject\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T07:06:45.03Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "style.css",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\wwwroot\\css\\style.css",
+              "RelativeDocumentMoniker": "SMSProject\\wwwroot\\css\\style.css",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\wwwroot\\css\\style.css",
+              "RelativeToolTip": "SMSProject\\wwwroot\\css\\style.css",
+              "ViewState": "AQIAAAkAAAAAAAAAACBjwBkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-12T11:50:09.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "site.css",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SMSProject\\wwwroot\\css\\site.css",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SMSProject\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-09T18:02:16.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "SMSProject\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "SMSProject\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-09T18:02:06.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Footer.cshtml",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Views\\Shared\\Footer.cshtml",
+              "RelativeDocumentMoniker": "SMSProject\\Views\\Shared\\Footer.cshtml",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Views\\Shared\\Footer.cshtml",
+              "RelativeToolTip": "SMSProject\\Views\\Shared\\Footer.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T17:57:59.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Aside.cshtml",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Views\\Shared\\_Aside.cshtml",
+              "RelativeDocumentMoniker": "SMSProject\\Views\\Shared\\_Aside.cshtml",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Views\\Shared\\_Aside.cshtml",
+              "RelativeToolTip": "SMSProject\\Views\\Shared\\_Aside.cshtml",
+              "ViewState": "AQIAAE4AAAAAAAAAACBjwEUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T17:09:58.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Header.cshtml",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Views\\Shared\\_Header.cshtml",
+              "RelativeDocumentMoniker": "SMSProject\\Views\\Shared\\_Header.cshtml",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Views\\Shared\\_Header.cshtml",
+              "RelativeToolTip": "SMSProject\\Views\\Shared\\_Header.cshtml",
+              "ViewState": "AQIAAC0AAAAAAAAAAIBJwEcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T17:07:47.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SMSProject\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SMSProject\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T17:04:23.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\SMSProject\\SMSProject\\Program.cs",
+              "RelativeDocumentMoniker": "SMSProject\\Program.cs",
+              "ToolTip": "E:\\SMSProject\\SMSProject\\Program.cs",
+              "RelativeToolTip": "SMSProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T14:55:12.255Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
